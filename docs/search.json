@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "path": "aboutme.html",
+      "title": "About Me",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nThis is about me page\n\n\n\n",
+      "last_modified": "2021-05-12T13:54:52-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Home",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nThis is homepage\n\n\n\n",
+      "last_modified": "2021-05-12T13:54:38-07:00"
+    }
+  ],
+  "collections": []
+}
